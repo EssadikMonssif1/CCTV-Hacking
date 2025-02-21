@@ -6,18 +6,8 @@
 https://github.com/EssadikMonssif1/CCTV-Hacking.git
 
 
-## Prérequis
+Installation sur Linux
 
-Assurez-vous que vous avez un terminal sous Linux ou l'invite de commande sous Windows.
-
----
-
-## Installation sur Linux
-
-### 1. Vérifier si Python est déjà installé
-
-Ouvrez un terminal et tapez la commande suivante pour vérifier si Python est déjà installé :
-```bash
 python3 --version
 
 
